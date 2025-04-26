@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://web.facebook.com/tola.kpt.142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/tola.kpt.142" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/19BEib1X7y/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/tola.kpt.142" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@namtola1029/shorts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@namtola1029/shorts" height="30" width="40" /></a>
 </p>
 

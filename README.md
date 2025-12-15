@@ -6,11 +6,17 @@ Welcome to my GitHub profile!
 
 ### About Me
 🔭 I’m currently working on exciting full-stack software projects that solve real-world problems.
+
 🌱 I’m continuously learning and improving in modern web technologies, system design, and backend architecture.
+
 👯 I’m looking to collaborate on open-source projects and innovative tech ideas.
+
 🤔 I’m focusing on mastering scalable backend systems, REST APIs, and full-stack application design.
+
 💬 Ask me about Java, Spring Boot, php, laravel full-stack development, and building production-ready applications.
+
 😄 focuse on frontend developer such as react, vue3, angularjs
+
 📫 How to reach me: (namtola4444@gmail.com )
 
 😄 Pronouns: he/him

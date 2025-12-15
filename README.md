@@ -5,14 +5,17 @@ Welcome to my GitHub profile!
 **Tola-Nam/Tola-Nam** is a ✨ _special_ ✨ repository because its `README.md` appears on my GitHub page.
 
 ### About Me
-- 🔭 I’m currently working on exciting software projects that solve real-world problems.
-- 🌱 I’m currently learning **[insert what you're learning, like "full-stack development", "AI/ML", "blockchain", etc.]**.
-- 👯 I’m looking to collaborate on open-source projects and innovative tech ideas.
-- 🤔 I’m looking for help with mastering **[insert technology or concept you're focusing on]**.
-- 💬 Ask me about **software development, problem solving, and building cool stuff**!
-- 📫 How to reach me: **[insert your preferred contact info like email, LinkedIn, Twitter]**.
-- 😄 Pronouns: **[he/him] / [she/her] / [they/them]** (choose or tell me if you want help picking how to word it!)
-- ⚡ Fun fact: **I love [insert fun fact about you, like "playing chess", "exploring new tech", "traveling", "cooking", etc.]**
+🔭 I’m currently working on exciting full-stack software projects that solve real-world problems.
+🌱 I’m continuously learning and improving in modern web technologies, system design, and backend architecture.
+👯 I’m looking to collaborate on open-source projects and innovative tech ideas.
+🤔 I’m focusing on mastering scalable backend systems, REST APIs, and full-stack application design.
+💬 Ask me about Java, Spring Boot, php, laravel full-stack development, and building production-ready applications.
+😄 focuse on frontend developer such as react, vue3, angularjs
+📫 How to reach me: (namtola4444@gmail.com )
+
+😄 Pronouns: he/him
+
+⚡ Fun fact: I enjoy exploring new technologies and building complete software solutions from backend to frontend.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

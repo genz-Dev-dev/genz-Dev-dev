@@ -1,7 +1,7 @@
 
 <div align="center">
   <!-- Animated Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Nam+Tola;Full+Stack+Developer;Java+Spring+Boot;Angularjs+%26+Next.js+Specialist;Clean+Code+Advocate" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Nam+Tola;Full+Stack+Developer;Java+Spring+Boot;Angularjs+%26+Vue3.js+Specialist;Clean+Code+Advocate" />
 </div>
 <p></p>
 <h2>🚀 Languages and Tools I Use</h2>

@@ -1,4 +1,8 @@
-<h1>Hi 👋, I'm Tola Nam</h1>
+
+<div align="center">
+  <!-- Animated Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Nam+Tola;Full+Stack+Developer;Java+Spring+Boot;Angularjs+%26+Next.js+Specialist;Clean+Code+Advocate" />
+</div>
 <p></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
